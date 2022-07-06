@@ -61,5 +61,3 @@ function endGame(event) {
 }
 
 startGame();
-
-console.log("Recreate the game of Rock, Paper, Scissors using JavaScript");
